@@ -1,4 +1,7 @@
 # Swiggy User Behavior & Web Analytics Dashboard
+![Dashboard Preview](./dashboard-preview.png)
+
+🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SWIGGY_Milestone_SG/SwiggyUserBehaviourwebanalytics2)
 
 *Key finding: Direct traffic converts best (46.1%), organic traffic drives the most volume, and the "Contact Us" page quietly outperforms the homepage on conversion — a signal that intent-driven visits matter more than raw traffic type.*
 
