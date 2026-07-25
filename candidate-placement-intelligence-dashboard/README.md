@@ -6,7 +6,7 @@
 ## Problem Statement
 Placed, a campus recruitment agency, wanted to understand what actually drives placement success across its candidate pool — since strong academic performers weren't always getting placed, while candidates with moderate scores but strong practical skills often were. The goal was to build an interactive Tableau dashboard that helps recruiters and students understand which factors matter most, and segment candidates by their likelihood of placement.
 
-*(Full data cleaning, EDA, and statistical analysis for this project live in the [Python repo](../../Python-Projects/) — this README covers the visualization and dashboard-design side specifically.)*
+*(Full data cleaning, EDA, and statistical analysis for this project live in the [Python repo](https://github.com/sudikshagupta04-star/Python-Projects/tree/main/candidate-placement-intelligence-analytics) — this README covers the visualization and dashboard-design side specifically.)*
 
 ## Approach
 Working from the cleaned and analyzed dataset, I focused on turning the statistical findings into a dashboard a non-technical recruiter could actually use:
